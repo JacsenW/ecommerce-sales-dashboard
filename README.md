@@ -70,7 +70,7 @@ ecommerce-sales-dashboard/
 ├── prep_data.py # Python script to load SQLite DB
 ├── ecommerce.db # Relational SQLite database
 ├── ecommerce_dashboard.pbix # Power BI dashboard file
-├── preview.png # Dashboard screenshot
+├── preview.pdf # Dashboard screenshot
 └── README.md # You’re here!
 
 ---
